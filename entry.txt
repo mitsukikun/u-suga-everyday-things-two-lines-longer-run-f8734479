@@ -1,0 +1,2 @@
+A queue is a human caterpillar, each person one segment shuffling forward a tiny step at a time toward the ice-cream counter at the front.
+It maps how everyone stays joined in order and shuffles forward waiting their turn, but it leaves out that people can step out, let someone go ahead, or join a shorter queue, while a caterpillar's segments are stuck together and can never choose at all.
